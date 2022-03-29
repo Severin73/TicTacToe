@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GamePlay board_dimension="3">
+    <Player id="1" mark="X" name="Katka"/>
+    <Player id="2" mark="0" name="Zuzana"/>
+    <Game>
+        <Step num="1" player_id="1">00</Step>
+        <Step num="2" player_id="2">01</Step>
+        <Step num="3" player_id="1">02</Step>
+        <Step num="4" player_id="2">10</Step>
+        <Step num="5" player_id="1">20</Step>
+        <Step num="6" player_id="2">22</Step>
+        <Step num="7" player_id="1">11</Step>
+    </Game>
+    <GameResult>
+        <Player id="1" mark="X" name="Katka"/>
+    </GameResult>
+</GamePlay>
